@@ -3,7 +3,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   header{
-    background-image: url(images/banners/banner1.png);
+    background-image: url(../images/banners/banner1.png);
     position:absolute;
     width: 100%;
     height: 808px;
